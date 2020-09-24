@@ -1,0 +1,5 @@
+.jumbotron{
+  background-image: url(statics/water.jpg); 
+  background-position: center;
+  background-size: cover;
+}
