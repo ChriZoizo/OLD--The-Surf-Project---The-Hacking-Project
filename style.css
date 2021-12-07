@@ -3,3 +3,7 @@
   background-position: center;
   background-size: cover;
 }
+
+.container {
+  width: 80%;
+}
